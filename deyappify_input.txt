@@ -1,0 +1,6 @@
+Username
+Password
+First week
+Last week
+Your API (of Chat-GPT)
+Extra prompt
