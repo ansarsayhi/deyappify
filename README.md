@@ -1,5 +1,5 @@
 # deyappify
-my FIRST EVER pet project! I made it to save a bit of time studying some courses in my Uni.
+I made it to save a bit of time studying some courses in my Uni.
 
 
 For selected weeks-of-studies range and selecte course, this program:
@@ -9,3 +9,4 @@ For selected weeks-of-studies range and selecte course, this program:
 
 
 
+btw my first pet project
