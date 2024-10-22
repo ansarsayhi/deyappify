@@ -13,6 +13,6 @@ How to actually use it?
 3. wait for the output file (gonna take time because it might need to downlaod a lot of files)
 
 What do you need?
-1. Python
-2. Google API
+1. Python 
+2. Google Drive API
 
